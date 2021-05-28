@@ -1,0 +1,11 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.springboot-jenkins-docker</groupId>
+  <artifactId>springboot-Jenkins-docker</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>spring-boot-jenkins-docker</name>
+  <build>
+    <finalName>spring-boot-jenkins-docker</finalName>
+  </build>
+  <description>Simple application to create docker image and push it to docker hub using jenkins andgithub</description>
+</project>
